@@ -1,2 +1,1 @@
-# Business-Intelligence 
-Business Intelligence is the process of collecting, organizing, analyzing, and visualizing data to support effective business decision making. This subject focuses on transforming raw data into meaningful insights through reporting, dashboards, and analytical techniques. As part of my learning, I am gaining hands-on experience with Power BI to create interactive reports and visualizations, understand data modeling, and analyze real world datasets. This repository reflects my progress in applying Business Intelligence concepts and tools to solve business problems and support data driven decisions.
+# Business-Intelligence
